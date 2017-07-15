@@ -1,0 +1,8 @@
+{
+  "name": "ramda-talk",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:TallerWebSolutions/ramda-talk.git",
+  "author": "Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
+  "license": "MIT"
+}
